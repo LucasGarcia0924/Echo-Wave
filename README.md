@@ -8,14 +8,3 @@ Universidad Nacional de Colombia
 * Lucas Garcia Alvarez
 * Julian Gustin Moreno
 * Kevin Castellanos Peña
-
-## Descripción
-## Objetivos
-## Alcance
-## Resultados
-## Diagramas
-## Notas 
-## Esquematicos
-## PCB
-## Estructura CAD
-## Referencias
