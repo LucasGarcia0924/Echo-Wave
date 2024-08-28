@@ -1881,6 +1881,7 @@
 		(property "Value" "MH 32mm M3"
 			(at -0.5 4.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b1e6e2a2-8303-409e-b536-18f0d4748a0c")
 			(effects
 				(font
@@ -1950,17 +1951,6 @@
 			(fill none)
 			(layer "F.CrtYd")
 			(uuid "7a04e5c2-00fc-4c0e-b2df-cd2f5c15d1c6")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "bab12e4d-5dcc-473c-95bc-18632eeba6e6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
