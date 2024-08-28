@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32devkit1")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
+  (lib (name "MH-CD42")(type "KiCad")(uri "${KIPRJMOD}/lib/MH-CD42/cd42.kicad_sym")(options "")(descr ""))
+  (lib (name "HC-12")(type "KiCad")(uri "${KIPRJMOD}/lib/HC-12/HC-12.kicad_sym")(options "")(descr ""))
+)

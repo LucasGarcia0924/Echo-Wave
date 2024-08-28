@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32devkit1")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32")(options "")(descr ""))
+  (lib (name "MH-CD42")(type "KiCad")(uri "${KIPRJMOD}/lib/MH-CD42")(options "")(descr ""))
+  (lib (name "HC-12")(type "KiCad")(uri "${KIPRJMOD}/lib/HC-12")(options "")(descr ""))
+  (lib (name "HC-12.2")(type "KiCad")(uri "C:/Users/Lucas/Downloads/hc12.2")(options "")(descr ""))
+)
