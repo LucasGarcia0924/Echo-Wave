@@ -8,3 +8,4 @@ Universidad Nacional de Colombia
 * Lucas Garcia Alvarez
 * Julian Gustin Moreno
 * Kevin Castellanos Peña
+* Santiago Navarro
