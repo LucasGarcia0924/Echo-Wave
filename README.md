@@ -21,9 +21,6 @@ Estas problemáticas crean la necesidad de desarrollar soluciones más accesible
 El proyecto EchoWave busca solucionar esta problemática mediante la creación de un dispositivo de bajo costo, flexible y eficiente, que permita la clonación y uso de señales de RF de manera segura, mejorando la experiencia del usuario y reduciendo la cantidad de controles remotos necesarios para interactuar con múltiples dispositivos.
 ##La solución planteada (los módulos usados)
 
-## Criterios de decisiones tomadas
-
 ## El funcionamiento del proyecto desde el punto de vista del usuario
-El usu
 
 ## Recomendaciones y conclusiones
