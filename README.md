@@ -26,4 +26,7 @@ El proyecto EchoWave busca solucionar esta problemática mediante la creación d
 
 ## El funcionamiento del proyecto desde el punto de vista del usuario
 
+El EchoWave funciona como un control remoto universal, que mediante una aplicación, clona señales RF, como las de un control de televisor, controles para puertas de garaje o portones, y otros dispositivos similares  
+Su uso consta tan solo de descargar la aplicación, clonar señales, cargar el dispositivo mediante el cable incluido y bloquear las señales con el pulsador en la parte superior del case.
+
 ## Recomendaciones y conclusiones
