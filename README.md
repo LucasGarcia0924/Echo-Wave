@@ -10,6 +10,9 @@ Universidad Nacional de Colombia
 * Kevin Castellanos Peña
 * Santiago Navarro
 
+## Introducción
+El proyecto EchoWave se creó con la idea de facilitar la clonación de señales RF de controles remotos de distintos tipos, utilizando materiales de bajo costo para crear un dispositivo capaz de replicar y usar dichas señales. 
+
 ## La problemática
 En la actualidad, el uso de controles remotos para dispositivos que emiten señales RF, como televisores, luces y otros equipos, se ha vuelto parte de las actividades cotidianas. Sin embargo, los usuarios enfrentan varios inconvenientes:
 
