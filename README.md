@@ -26,8 +26,15 @@ En la actualidad, el uso de controles remotos para dispositivos que emiten seña
 Estas problemáticas crean la necesidad de desarrollar soluciones más accesibles y económicas que permitan clonar y utilizar señales RF de manera segura y eficiente, facilitando así las acciones cotidianas de los usuarios.
 
 El proyecto EchoWave busca solucionar esta problemática mediante la creación de un dispositivo de bajo costo, flexible y eficiente, que permita la clonación y uso de señales de RF de manera segura, mejorando la experiencia del usuario y reduciendo la cantidad de controles remotos necesarios para interactuar con múltiples dispositivos.
-##La solución planteada (los módulos usados)
-
+## La solución planteada (los módulos usados)
+La solución se diseña a partir de tecnologías simples, de fácil acceso y fabricación, enfocados en parte a que sea algo accesible para todo el mundo, por lo que a partir de esto y demás requisitos descritos a continuacion, se eligen los siguientes componentes:
+- Chip ESP32
+- Batería Recargable IN18650
+- Modulo MHCD 42
+- Transceptor HC-12
+- Servomotor SG90
+- Zumbador
+- Case en Impresion 3D y Corte Laser
 ## El funcionamiento del proyecto desde el punto de vista del usuario
 
 El EchoWave funciona como un control remoto universal, que mediante una aplicación, clona señales RF, como las de un control de televisor, controles para puertas de garaje o portones, y otros dispositivos similares  
