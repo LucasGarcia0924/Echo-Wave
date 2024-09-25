@@ -2,7 +2,7 @@
 <img src="https://github.com/LucasGarcia0924/Echo-Wave/blob/main/Imagenes/Banner.png?raw=true" alt="image" width="2000" height="auto">
 Banner 
 
-
+## Descripción 
 Dispositivo capaz de clonar señales RF de 433mhz, siendo controlado desde una App Movil
 
 Proyecto final asignatura de Taller de Electrónica 2024-1
