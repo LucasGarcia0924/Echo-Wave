@@ -48,3 +48,6 @@ En este proyecto se logró avanzar en le creación de una herramienta capaz de s
 Visualizamos que puede ser muy útil, buscar diferentes antecedentes de proyectos similares, componentes capaces de llevar a cabo la tarea y evaluar cuál lenguaje de programación ha de usarse.
 Si se quiere hacer un trabajo en grupo, debe existir muy buena comunicación, de forma continua y clara entre todos, para que no se se tengan retrasos en el proceso, facilitando la corrección de errores y permitiendo un continuo ciclo de ideas y retroalimentación, para que el proyecto fluya correctamente.
 Se deben tener en cuenta los posibles obstáculos que se pueden presentar durante el proceso, como puede ser el mal funcionamiento de un componente, o el fallo del código; para ello es necesario saber que otras alternativas existen, para corregir el error que se produzca al realizar el proyecto.
+
+## WIKI
+Si desea conocer más sobre este proyecto, podrá encontrar toda la documentación en la sección de [wiki](https://github.com/LucasGarcia0924/Echo-Wave/wiki), además, en este apartado en la parte superior se encuentran adjuntos todos los archivos relacionados con el proyecto.
